@@ -1,4 +1,4 @@
-# 📄 Cahier des Charges – EPOS System
+# 📄 EPOS System
 
 ## 1. Project Overview
 The **EPOS System** is a **Java-based Electronic Point of Sale (EPOS)** system for small to medium businesses. It includes **user role management**, **product inventory**, **transaction processing**, **receipt generation**, and **reporting capabilities**. The application is designed to be a **desktop application** with an intuitive and clean user interface.
